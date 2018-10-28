@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SubscribersDBModelStoreContainer" CdmEntityContainer="SubscribersDBEntities">
+    <EntitySetMapping Name="TopArtistsSubscribers">
+      <EntityTypeMapping TypeName="SubscribersDBModel.TopArtistsSubscribers">
+        <MappingFragment StoreEntitySet="TopArtistsSubscribers">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="SubscriberName" ColumnName="SubscriberName" />
+          <ScalarProperty Name="SubscriberEmail" ColumnName="SubscriberEmail" />
+          <ScalarProperty Name="SubscribtionDateCreated" ColumnName="SubscribtionDateCreated" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="SubscribersDBModel.Users">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

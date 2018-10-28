@@ -1,0 +1,9 @@
+S:\KEIS\RAZVOJ\IGOR\Visual Studio 2017\Projects\SEDC\New\TopArtistsWebApi\Artists.Subscribers.DataAccess\bin\Debug\Artists.Subscribers.DataAccess.dll.config
+S:\KEIS\RAZVOJ\IGOR\Visual Studio 2017\Projects\SEDC\New\TopArtistsWebApi\Artists.Subscribers.DataAccess\bin\Debug\Artists.Subscribers.DataAccess.dll
+S:\KEIS\RAZVOJ\IGOR\Visual Studio 2017\Projects\SEDC\New\TopArtistsWebApi\Artists.Subscribers.DataAccess\bin\Debug\Artists.Subscribers.DataAccess.pdb
+S:\KEIS\RAZVOJ\IGOR\Visual Studio 2017\Projects\SEDC\New\TopArtistsWebApi\Artists.Subscribers.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+S:\KEIS\RAZVOJ\IGOR\Visual Studio 2017\Projects\SEDC\New\TopArtistsWebApi\Artists.Subscribers.DataAccess\bin\Debug\EntityFramework.dll
+S:\KEIS\RAZVOJ\IGOR\Visual Studio 2017\Projects\SEDC\New\TopArtistsWebApi\Artists.Subscribers.DataAccess\obj\Debug\Artists.Subscribers.Data.Access.csproj.CoreCompileInputs.cache
+S:\KEIS\RAZVOJ\IGOR\Visual Studio 2017\Projects\SEDC\New\TopArtistsWebApi\Artists.Subscribers.DataAccess\obj\Debug\Artists.Subscribers.Data.Access.csproj.CopyComplete
+S:\KEIS\RAZVOJ\IGOR\Visual Studio 2017\Projects\SEDC\New\TopArtistsWebApi\Artists.Subscribers.DataAccess\obj\Debug\Artists.Subscribers.DataAccess.dll
+S:\KEIS\RAZVOJ\IGOR\Visual Studio 2017\Projects\SEDC\New\TopArtistsWebApi\Artists.Subscribers.DataAccess\obj\Debug\Artists.Subscribers.DataAccess.pdb

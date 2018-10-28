@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SubscribersDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="TopArtistsSubscribers">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Guid" Nullable="false" />
+    <Property Name="SubscriberName" Type="String" MaxLength="80" FixedLength="false" Unicode="true" />
+    <Property Name="SubscriberEmail" Type="String" MaxLength="79" FixedLength="false" Unicode="true" />
+    <Property Name="SubscribtionDateCreated" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityContainer Name="SubscribersDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TopArtistsSubscribers" EntityType="Self.TopArtistsSubscribers" />
+    <EntitySet Name="Users" EntityType="SubscribersDBModel.Users" />
+  </EntityContainer>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Username" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>

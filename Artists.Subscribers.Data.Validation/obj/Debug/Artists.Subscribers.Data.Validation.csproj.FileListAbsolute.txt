@@ -1,0 +1,5 @@
+S:\KEIS\RAZVOJ\IGOR\Visual Studio 2017\Projects\SEDC\New\TopArtistsWebApi\Artists.Subscribers.Data.Validation\bin\Debug\Artists.Subscribers.Data.Validation.dll
+S:\KEIS\RAZVOJ\IGOR\Visual Studio 2017\Projects\SEDC\New\TopArtistsWebApi\Artists.Subscribers.Data.Validation\bin\Debug\Artists.Subscribers.Data.Validation.pdb
+S:\KEIS\RAZVOJ\IGOR\Visual Studio 2017\Projects\SEDC\New\TopArtistsWebApi\Artists.Subscribers.Data.Validation\obj\Debug\Artists.Subscribers.Data.Validation.csproj.CoreCompileInputs.cache
+S:\KEIS\RAZVOJ\IGOR\Visual Studio 2017\Projects\SEDC\New\TopArtistsWebApi\Artists.Subscribers.Data.Validation\obj\Debug\Artists.Subscribers.Data.Validation.dll
+S:\KEIS\RAZVOJ\IGOR\Visual Studio 2017\Projects\SEDC\New\TopArtistsWebApi\Artists.Subscribers.Data.Validation\obj\Debug\Artists.Subscribers.Data.Validation.pdb
